@@ -23,6 +23,6 @@
   "files": [
     "bin",
     "dist"
-  ]
-  
+  ],
+  "repository": "https://github.com/ZZK520/cli"
 }
